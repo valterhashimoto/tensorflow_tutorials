@@ -3,8 +3,8 @@ A self-learning tutorials repository containing Jupyter Notebooks based on the o
 
 Config:  
 Ubuntu 18.04 LTS  
-Python 3.6.8
-Virtualenv
+Python 3.6.8  
+Virtualenv  
 Tensorflow 1.5.0 (old CPU - won't run SEE4.1 instructions)  
 Keras 2.2.5  
 Numpy 1.16.4
